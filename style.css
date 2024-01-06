@@ -9,7 +9,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
-    font-family: 'Monoton', cursive;
+    font-family: 'Monoton';
     transition: all 0.5s ease;
 }
 
