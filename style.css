@@ -1,5 +1,4 @@
 @import url('https;//fonts.googleapis.com/css2?family=Monoton&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 
 body {
     background-color: #000;
@@ -10,7 +9,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
-    font-family: 'Monoton', 'Outfit';
+    font-family: 'Monoton', sans-serif;
     transition: all 0.5s ease;
 }
 
